@@ -13,7 +13,7 @@ public class Calculator {
         return firstInput * secondInput;
     }
 
-    public static Integer divide(final int firstInput, final int secondInput) {
-        return firstInput / secondInput;
+    public static Double divide(final double d, final double e) {
+        return d / e;
     }
 }
